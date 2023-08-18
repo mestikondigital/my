@@ -1,5 +1,5 @@
 aiogram-dialog==2.0.0b21
-aiogram==3.0.0rc1
+aiogram==3.0.0rc2
 aioredis==2.0.1
 aiosqlite==0.17.0
 cachetools==4.2.4
