@@ -2,7 +2,7 @@ aiogram-dialog==2.0.0
 aiogram==3.0.0
 aioredis==2.0.1
 aiosqlite==0.17.0
-cachetools==4.2.4
+cachetools==5.3.2
 coloredlogs==15.0.1
 pyrogram==2.0.106
 sqlalchemy==1.4.46
